@@ -1,0 +1,265 @@
+"Notes"	"Year"	"Year Code"	"2005 Metro/Nonmetro"	"2005 Metro/Nonmetro Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate	Age Adjusted Rate
+	"1999"	"1999"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	5143	1325309	388.1	696.0
+	"1999"	"1999"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	31033	10521597	294.9	510.9
+	"1999"	"1999"	"Metro"	"Metro"	"Black or African American"	"2054-5"	241362	30547163	790.1	1143.3
+	"1999"	"1999"	"Metro"	"Metro"	"White"	"2106-3"	1501738	156520878	959.4	849.6
+"Total"	"1999"	"1999"	"Metro"	"Metro"			1779276	198914947	894.5	874.7
+	"1999"	"1999"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	5855	943367	620.6	1088.1
+	"1999"	"1999"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2118	435746	486.1	719.1
+	"1999"	"1999"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	40617	4175073	972.8	1197.4
+	"1999"	"1999"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	451459	40633240	1111.1	897.0
+"Total"	"1999"	"1999"	"Nonmetro"	"Nonmetro"			500049	46187426	1082.7	919.8
+"Total"	"1999"	"1999"					2279325	245102373	929.9	883.9
+	"2000"	"2000"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	5350	1364097	392.2	685.3
+	"2000"	"2000"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	32174	10880341	295.7	503.0
+	"2000"	"2000"	"Metro"	"Metro"	"Black or African American"	"2054-5"	242523	30889670	785.1	1131.9
+	"2000"	"2000"	"Metro"	"Metro"	"White"	"2106-3"	1506131	156772542	960.7	843.9
+"Total"	"2000"	"2000"	"Metro"	"Metro"			1786178	199906650	893.5	868.0
+	"2000"	"2000"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	5675	979945	579.1	986.7
+	"2000"	"2000"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2052	475212	431.8	621.9
+	"2000"	"2000"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	40153	4202139	955.5	1177.5
+	"2000"	"2000"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	453788	40552142	1119.0	897.9
+"Total"	"2000"	"2000"	"Nonmetro"	"Nonmetro"			501668	46209438	1085.6	917.6
+"Total"	"2000"	"2000"					2287846	246116088	929.6	878.1
+	"2001"	"2001"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	5612	1378777	407.0	696.9
+	"2001"	"2001"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	34292	11485056	298.6	492.8
+	"2001"	"2001"	"Metro"	"Metro"	"Black or African American"	"2054-5"	244550	31413954	778.5	1117.4
+	"2001"	"2001"	"Metro"	"Metro"	"White"	"2106-3"	1510138	157342562	959.8	835.8
+"Total"	"2001"	"2001"	"Metro"	"Metro"			1794592	201620349	890.1	858.4
+	"2001"	"2001"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	6014	981844	612.5	988.7
+	"2001"	"2001"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2173	498122	436.2	591.0
+	"2001"	"2001"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	39793	4224435	942.0	1156.4
+	"2001"	"2001"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	452672	40500109	1117.7	889.0
+"Total"	"2001"	"2001"	"Nonmetro"	"Nonmetro"			500652	46204510	1083.6	908.1
+"Total"	"2001"	"2001"					2295244	247824859	926.2	868.4
+	"2002"	"2002"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	5766	1394464	413.5	696.3
+	"2002"	"2002"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	35343	11961255	295.5	481.5
+	"2002"	"2002"	"Metro"	"Metro"	"Black or African American"	"2054-5"	246471	31819577	774.6	1106.6
+	"2002"	"2002"	"Metro"	"Metro"	"White"	"2106-3"	1522032	157557631	966.0	832.8
+"Total"	"2002"	"2002"	"Metro"	"Metro"			1809612	202732927	892.6	853.9
+	"2002"	"2002"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	6321	988839	639.2	1018.4
+	"2002"	"2002"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2293	511129	448.6	604.5
+	"2002"	"2002"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	40102	4230327	948.0	1162.9
+	"2002"	"2002"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	459941	40544351	1134.4	896.6
+"Total"	"2002"	"2002"	"Nonmetro"	"Nonmetro"			508657	46274646	1099.2	915.9
+"Total"	"2002"	"2002"					2318269	249007573	931.0	866.4
+	"2003"	"2003"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	6183	1409677	438.6	722.1
+	"2003"	"2003"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	37082	12417518	298.6	476.4
+	"2003"	"2003"	"Metro"	"Metro"	"Black or African American"	"2054-5"	248144	32180646	771.1	1091.4
+	"2003"	"2003"	"Metro"	"Metro"	"White"	"2106-3"	1519178	157670423	963.5	820.5
+"Total"	"2003"	"2003"	"Metro"	"Metro"			1810587	203678264	888.9	841.4
+	"2003"	"2003"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	6541	994799	657.5	1039.6
+	"2003"	"2003"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2237	524819	426.2	569.6
+	"2003"	"2003"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	39824	4241559	938.9	1150.0
+	"2003"	"2003"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	460287	40619063	1133.2	888.4
+"Total"	"2003"	"2003"	"Nonmetro"	"Nonmetro"			508889	46380240	1097.2	907.4
+"Total"	"2003"	"2003"					2319476	250058504	927.6	854.6
+	"2004"	"2004"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	6196	1421678	435.8	705.1
+	"2004"	"2004"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	37398	12865641	290.7	456.0
+	"2004"	"2004"	"Metro"	"Metro"	"Black or African American"	"2054-5"	244868	32593231	751.3	1055.1
+	"2004"	"2004"	"Metro"	"Metro"	"White"	"2106-3"	1484900	157899860	940.4	793.8
+"Total"	"2004"	"2004"	"Metro"	"Metro"			1773362	204780410	866.0	813.1
+	"2004"	"2004"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	6479	1006821	643.5	994.3
+	"2004"	"2004"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2269	540889	419.5	555.7
+	"2004"	"2004"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	38991	4255760	916.2	1116.0
+	"2004"	"2004"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	448482	40720043	1101.4	858.8
+"Total"	"2004"	"2004"	"Nonmetro"	"Nonmetro"			496221	46523513	1066.6	877.3
+"Total"	"2004"	"2004"					2269583	251303923	903.1	825.8
+	"2005"	"2005"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	6490	1444653	449.2	713.5
+	"2005"	"2005"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	39962	13329351	299.8	456.7
+	"2005"	"2005"	"Metro"	"Metro"	"Black or African American"	"2054-5"	249482	32990446	756.2	1045.4
+	"2005"	"2005"	"Metro"	"Metro"	"White"	"2106-3"	1508655	158067551	954.4	794.5
+"Total"	"2005"	"2005"	"Metro"	"Metro"			1804589	205832001	876.7	812.7
+	"2005"	"2005"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	6909	1008317	685.2	1039.1
+	"2005"	"2005"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2362	558944	422.6	546.9
+	"2005"	"2005"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	39681	4280290	927.1	1120.3
+	"2005"	"2005"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	458487	40813433	1123.4	867.9
+"Total"	"2005"	"2005"	"Nonmetro"	"Nonmetro"			507439	46660984	1087.5	886.4
+"Total"	"2005"	"2005"					2312028	252492985	915.7	827.3
+	"2006"	"2006"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	6626	1459839	453.9	708.7
+	"2006"	"2006"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	41301	13803692	299.2	446.8
+	"2006"	"2006"	"Metro"	"Metro"	"Black or African American"	"2054-5"	247424	33387926	741.1	1010.0
+	"2006"	"2006"	"Metro"	"Metro"	"White"	"2106-3"	1490990	158231608	942.3	773.9
+"Total"	"2006"	"2006"	"Metro"	"Metro"			1786341	206883065	863.5	790.5
+	"2006"	"2006"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	6802	1017881	668.3	994.9
+	"2006"	"2006"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2497	572304	436.3	556.5
+	"2006"	"2006"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	39157	4331569	904.0	1082.9
+	"2006"	"2006"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	453627	40968788	1107.3	845.9
+"Total"	"2006"	"2006"	"Nonmetro"	"Nonmetro"			502083	46890542	1070.8	863.7
+"Total"	"2006"	"2006"					2288424	253773607	901.8	805.0
+	"2007"	"2007"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	6720	1474045	455.9	695.7
+	"2007"	"2007"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	42178	14269643	295.6	432.5
+	"2007"	"2007"	"Metro"	"Metro"	"Black or African American"	"2054-5"	246873	33823203	729.9	982.6
+	"2007"	"2007"	"Metro"	"Metro"	"White"	"2106-3"	1485182	158432347	937.4	758.9
+"Total"	"2007"	"2007"	"Metro"	"Metro"			1780953	207999238	856.2	773.7
+	"2007"	"2007"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	6991	1028488	679.7	997.9
+	"2007"	"2007"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2585	585058	441.8	560.4
+	"2007"	"2007"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	39493	4361496	905.5	1074.0
+	"2007"	"2007"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	454424	41060074	1106.7	836.0
+"Total"	"2007"	"2007"	"Nonmetro"	"Nonmetro"			503493	47035116	1070.5	853.9
+"Total"	"2007"	"2007"					2284446	255034354	895.7	789.5
+	"2008"	"2008"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	6877	1491253	461.2	686.9
+	"2008"	"2008"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	44368	14735248	301.1	432.2
+	"2008"	"2008"	"Metro"	"Metro"	"Black or African American"	"2054-5"	246365	34256664	719.2	959.5
+	"2008"	"2008"	"Metro"	"Metro"	"White"	"2106-3"	1514660	158676800	954.6	760.9
+"Total"	"2008"	"2008"	"Metro"	"Metro"			1812270	209159965	866.5	772.1
+	"2008"	"2008"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	7247	1037217	698.7	1000.5
+	"2008"	"2008"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2588	600933	430.7	537.9
+	"2008"	"2008"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	39157	4395069	890.9	1037.1
+	"2008"	"2008"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	466374	41106997	1134.5	847.6
+"Total"	"2008"	"2008"	"Nonmetro"	"Nonmetro"			515366	47140216	1093.3	862.5
+"Total"	"2008"	"2008"					2327636	256300181	908.2	790.0
+	"2009"	"2009"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	6949	1500515	463.1	667.8
+	"2009"	"2009"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	45526	15177015	300.0	421.4
+	"2009"	"2009"	"Metro"	"Metro"	"Black or African American"	"2054-5"	244558	34705870	704.7	921.6
+	"2009"	"2009"	"Metro"	"Metro"	"White"	"2106-3"	1487010	158895237	935.8	736.5
+"Total"	"2009"	"2009"	"Metro"	"Metro"			1784043	210278637	848.4	746.6
+	"2009"	"2009"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	7310	1051636	695.1	971.6
+	"2009"	"2009"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2626	616980	425.6	529.3
+	"2009"	"2009"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	38424	4398945	873.5	1023.5
+	"2009"	"2009"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	457596	41097842	1113.4	823.7
+"Total"	"2009"	"2009"	"Nonmetro"	"Nonmetro"			505956	47165403	1072.7	838.8
+"Total"	"2009"	"2009"					2289999	257444040	889.5	764.7
+	"2010"	"2010"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	7332	1505295	487.1	704.1
+	"2010"	"2010"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	47506	15504969	306.4	422.8
+	"2010"	"2010"	"Metro"	"Metro"	"Black or African American"	"2054-5"	244999	35030941	699.4	907.1
+	"2010"	"2010"	"Metro"	"Metro"	"White"	"2106-3"	1505572	159002811	946.9	735.9
+"Total"	"2010"	"2010"	"Metro"	"Metro"			1805409	211044016	855.5	744.0
+	"2010"	"2010"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	7514	1064272	706.0	979.2
+	"2010"	"2010"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2512	628903	399.4	490.2
+	"2010"	"2010"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	38439	4406192	872.4	1015.4
+	"2010"	"2010"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	464344	41124561	1129.1	825.3
+"Total"	"2010"	"2010"	"Nonmetro"	"Nonmetro"			512809	47223928	1085.9	839.2
+"Total"	"2010"	"2010"					2318218	258267944	897.6	762.7
+	"2011"	"2011"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	7424	1522974	487.5	670.9
+	"2011"	"2011"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	49659	16075824	308.9	408.8
+	"2011"	"2011"	"Metro"	"Metro"	"Black or African American"	"2054-5"	248670	35555614	699.4	886.7
+	"2011"	"2011"	"Metro"	"Metro"	"White"	"2106-3"	1534236	159438334	962.3	736.6
+"Total"	"2011"	"2011"	"Metro"	"Metro"			1839989	212592746	865.5	741.1
+	"2011"	"2011"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	7757	1072923	723.0	978.5
+	"2011"	"2011"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2687	663504	405.0	489.3
+	"2011"	"2011"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	38127	4435917	859.5	983.3
+	"2011"	"2011"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	472083	40991915	1151.6	829.8
+"Total"	"2011"	"2011"	"Nonmetro"	"Nonmetro"			520654	47164259	1103.9	841.3
+"Total"	"2011"	"2011"					2360643	259757005	908.8	760.5
+	"2012"	"2012"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	7746	1541033	502.6	667.1
+	"2012"	"2012"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	52539	16565559	317.2	405.8
+	"2012"	"2012"	"Metro"	"Metro"	"Black or African American"	"2054-5"	252554	35990311	701.7	872.8
+	"2012"	"2012"	"Metro"	"Metro"	"White"	"2106-3"	1543233	159846672	965.4	726.6
+"Total"	"2012"	"2012"	"Metro"	"Metro"			1856072	213943575	867.6	730.5
+	"2012"	"2012"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	7959	1079247	737.5	958.3
+	"2012"	"2012"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2759	684539	403.0	472.9
+	"2012"	"2012"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	38625	4444610	869.0	976.4
+	"2012"	"2012"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	473663	40852912	1159.4	820.5
+"Total"	"2012"	"2012"	"Nonmetro"	"Nonmetro"			523006	47061308	1111.3	832.2
+"Total"	"2012"	"2012"					2379078	261004883	911.5	750.1
+	"2013"	"2013"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	8103	1555889	520.8	674.5
+	"2013"	"2013"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	55662	17071487	326.1	404.7
+	"2013"	"2013"	"Metro"	"Metro"	"Black or African American"	"2054-5"	259411	36405322	712.6	870.6
+	"2013"	"2013"	"Metro"	"Metro"	"White"	"2106-3"	1569924	160149073	980.3	727.6
+"Total"	"2013"	"2013"	"Metro"	"Metro"			1893100	215181771	879.8	730.5
+	"2013"	"2013"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	8116	1088086	745.9	946.1
+	"2013"	"2013"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	3040	706144	430.5	493.4
+	"2013"	"2013"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	39816	4450529	894.6	989.0
+	"2013"	"2013"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	482736	40714229	1185.7	826.9
+"Total"	"2013"	"2013"	"Nonmetro"	"Nonmetro"			533708	46958988	1136.5	838.8
+"Total"	"2013"	"2013"					2426808	262140759	925.8	751.2
+	"2014"	"2014"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	8600	1570703	547.5	679.6
+	"2014"	"2014"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	57412	17611952	326.0	391.1
+	"2014"	"2014"	"Metro"	"Metro"	"Black or African American"	"2054-5"	264296	36833396	717.5	859.2
+	"2014"	"2014"	"Metro"	"Metro"	"White"	"2106-3"	1581644	160477277	985.6	721.9
+"Total"	"2014"	"2014"	"Metro"	"Metro"			1911952	216493328	883.1	723.1
+	"2014"	"2014"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	8538	1096569	778.6	964.6
+	"2014"	"2014"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	3012	724598	415.7	463.0
+	"2014"	"2014"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	39548	4457377	887.2	963.5
+	"2014"	"2014"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	485305	40601622	1195.3	822.3
+"Total"	"2014"	"2014"	"Nonmetro"	"Nonmetro"			536403	46880166	1144.2	833.0
+"Total"	"2014"	"2014"					2448355	263373494	929.6	744.0
+	"2015"	"2015"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	9077	1582620	573.5	688.9
+	"2015"	"2015"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	61967	18170011	341.0	396.9
+	"2015"	"2015"	"Metro"	"Metro"	"Black or African American"	"2054-5"	274548	37256269	736.9	864.7
+	"2015"	"2015"	"Metro"	"Metro"	"White"	"2106-3"	1623949	160730566	1010.4	730.4
+"Total"	"2015"	"2015"	"Metro"	"Metro"			1969541	217739466	904.5	730.7
+	"2015"	"2015"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	8962	1106563	809.9	973.1
+	"2015"	"2015"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	3310	745526	444.0	477.2
+	"2015"	"2015"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	40706	4467446	911.2	970.0
+	"2015"	"2015"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	499682	40499096	1233.8	837.6
+"Total"	"2015"	"2015"	"Nonmetro"	"Nonmetro"			552660	46818631	1180.4	848.0
+"Total"	"2015"	"2015"					2522201	264558097	953.4	753.0
+	"2016"	"2016"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	9469	1594859	593.7	692.0
+	"2016"	"2016"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	64814	18714107	346.3	391.6
+	"2016"	"2016"	"Metro"	"Metro"	"Black or African American"	"2054-5"	285137	37669819	756.9	870.8
+	"2016"	"2016"	"Metro"	"Metro"	"White"	"2106-3"	1633608	160909712	1015.2	727.0
+"Total"	"2016"	"2016"	"Metro"	"Metro"			1993028	218888497	910.5	727.8
+	"2016"	"2016"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	9126	1116208	817.6	956.2
+	"2016"	"2016"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	3421	765623	446.8	464.1
+	"2016"	"2016"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	41673	4471850	931.9	976.6
+	"2016"	"2016"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	499855	40415048	1236.8	832.5
+"Total"	"2016"	"2016"	"Nonmetro"	"Nonmetro"			554075	46768729	1184.7	843.3
+"Total"	"2016"	"2016"					2547103	265657226	958.8	749.5
+"Total"							42274682	4599217895	919.2	797.4
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"2005 Metro/Nonmetro: Metro; Nonmetro"
+"Hispanic Origin: Not Hispanic or Latino"
+"Race: American Indian or Alaska Native; Asian or Pacific Islander; Black or African American; White"
+"Year: 1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016"
+"Group By: Year; 2005 Metro/Nonmetro; Race"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: May 13, 2022 9:22:49 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality: Compressed Mortality File 1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the"
+"Compressed Mortality File 1999-2016 Series 20 No. 2U, 2016, as compiled from data provided by the 57 vital statistics"
+"jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on May 13, 2022"
+"9:22:49 AM"
+"---"
+Caveats:
+"1. About national population figures: population figures for 1999 are from the 1990-1999 series of bridged-race intercensal"
+"estimates of the July 1 resident population; population figures for 2000 and 2010 are bridged-race April 1 census counts;"
+"population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race intercensal estimates of the July 1"
+"resident population; population figures for 2011 are bridged-race postcensal estimates of the July 1 resident population, from"
+"the Vintage 2011 series released by NCHS on July 18, 2012; population figures for 2012 are bridged-race postcensal estimates of"
+"the July 1 resident population, from the Vintage 2012 series released by NCHS on June 13, 2013; population figures for 2013 are"
+"bridged-race postcensal estimates of the July 1 resident population, from the Vintage 2013 series released by NCHS on June 26,"
+"2014; population figures for 2014 are bridged-race postcensal estimates of the July 1 resident population, from the Vintage 2014"
+"series released by NCHS on June 30, 2015. and population figures for 2015 are bridged-race postcensal estimates of the July 1"
+"resident population, from the Vintage 2015 series released by NCHS on June 28, 2016. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Population Information."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Not Stated."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Racial Differences."
+"8. 2005 Metro/Nonmetro is based on the classification of counties as metropolitan or nonmetropolitan (micropolitan or noncore)"
+"according to the December 2005 OMB delineation of core based statistical areas."
+"9. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
+"10. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#California-Reporting-Anomalies."
+"11. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More"
+"information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies."
+"12. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10"
+"codes, most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#New-Jersey-Reporting-Anomalies."

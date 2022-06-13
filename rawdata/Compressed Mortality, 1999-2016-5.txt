@@ -1,0 +1,875 @@
+"Notes"	"Year"	"Year Code"	"Census Region"	"Census Region Code"	"2005 Metro/Nonmetro"	"2005 Metro/Nonmetro Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate	Age Adjusted Rate
+	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	320	119466	267.9	416.7
+	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	4494	2151156	208.9	428.9
+	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	46455	5928937	783.5	1055.7
+	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	363131	34875959	1041.2	827.2
+"Total"	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			414400	43075518	962.0	845.9
+	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	98	21526	455.3	1029.2
+	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	55	29378	187.2	757.9
+	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	416	93882	443.1	1070.1
+	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	52023	5006534	1039.1	863.6
+"Total"	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			52592	5151320	1020.9	864.7
+"Total"	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"					466992	48226838	968.3	848.0
+	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	842	207066	406.6	860.1
+	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	2187	1153129	189.7	460.4
+	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	53667	6342342	846.2	1200.4
+	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	351482	38304210	917.6	865.5
+"Total"	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			408178	46006747	887.2	899.7
+	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1290	191125	675.0	1445.1
+	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	167	77132	216.5	986.6
+	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1700	250680	678.2	1239.8
+	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	161391	14633696	1102.9	860.9
+"Total"	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			164548	15152633	1085.9	867.4
+"Total"	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"					572726	61159380	936.4	890.6
+	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1214	390580	310.8	579.8
+	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	3568	1900333	187.8	448.4
+	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	118760	15165925	783.1	1164.2
+	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	487219	50617996	962.5	868.2
+"Total"	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			610761	68074834	897.2	912.1
+	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1673	291653	573.6	918.4
+	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	203	83535	243.0	952.0
+	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	38214	3771595	1013.2	1202.6
+	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	187941	15926351	1180.1	954.9
+"Total"	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			228031	20073134	1136.0	991.0
+"Total"	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"					838792	88147968	951.6	931.6
+	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	2767	608197	455.0	798.9
+	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	20784	5316979	390.9	551.4
+	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	22480	3109959	722.8	1109.4
+	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	299906	32722713	916.5	828.2
+"Total"	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			345937	41757848	828.4	818.9
+	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2794	439063	636.4	1100.7
+	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1693	245701	689.0	723.2
+	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	287	58916	487.1	1077.7
+	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	50104	5066659	988.9	847.2
+"Total"	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			54878	5810339	944.5	858.0
+"Total"	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"					400815	47568187	842.6	823.8
+"Total"	"1999"	"1999"							2279325	245102373	929.9	883.9
+	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	348	123593	281.6	427.8
+	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	4702	2234533	210.4	423.1
+	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	46876	5986743	783.0	1048.1
+	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	363562	34837189	1043.6	820.6
+"Total"	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			415488	43182058	962.2	838.8
+	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	90	23418	384.3	753.6
+	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	62	31557	196.5	534.7
+	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	416	98943	420.4	944.2
+	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	52399	5004315	1047.1	862.0
+"Total"	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			52967	5158233	1026.8	861.9
+"Total"	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"					468455	48340291	969.1	841.4
+	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	822	213377	385.2	758.9
+	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	2207	1205783	183.0	430.4
+	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	52929	6393163	827.9	1173.3
+	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	348566	38320456	909.6	852.4
+"Total"	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			404524	46132779	876.9	884.5
+	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1275	203142	627.6	1273.3
+	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	155	88945	174.3	545.0
+	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1619	267496	605.2	1137.9
+	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	159714	14575882	1095.7	851.7
+"Total"	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			162763	15135465	1075.4	856.5
+"Total"	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"					567287	61268244	925.9	876.5
+	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1243	407280	305.2	531.8
+	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	3889	1995943	194.8	444.8
+	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	120507	15364979	784.3	1164.2
+	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	494519	50792618	973.6	872.3
+"Total"	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			620158	68560820	904.5	915.1
+	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1664	307947	540.4	869.3
+	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	201	101670	197.7	556.3
+	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	37827	3771106	1003.1	1188.5
+	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	191489	15908581	1203.7	969.1
+"Total"	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			231181	20089304	1150.8	999.6
+"Total"	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"					851339	88650124	960.3	935.9
+	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	2937	619847	473.8	838.4
+	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	21376	5444082	392.6	545.0
+	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	22211	3144785	706.3	1068.9
+	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	299484	32822279	912.4	816.1
+"Total"	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			346008	42030993	823.2	806.0
+	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2646	445438	594.0	982.4
+	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1634	253040	645.7	670.0
+	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	291	64594	450.5	1011.7
+	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	50186	5063364	991.2	839.6
+"Total"	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			54757	5826436	939.8	844.9
+"Total"	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"					400765	47857429	837.4	810.8
+"Total"	"2000"	"2000"							2287846	246116088	929.6	878.1
+	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	351	123744	283.7	409.2
+	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	5132	2364798	217.0	413.8
+	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	47201	6031637	782.6	1035.8
+	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	362086	34755701	1041.8	813.1
+"Total"	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			414770	43275880	958.4	829.7
+	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	115	23196	495.8	855.7
+	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	55	34480	159.5	356.1
+	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	392	104562	374.9	798.0
+	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	52354	5000223	1047.0	853.8
+"Total"	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			52916	5162461	1025.0	852.8
+"Total"	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"					467686	48438341	965.5	832.3
+	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	890	213569	416.7	779.3
+	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	2476	1277749	193.8	444.8
+	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	52655	6471159	813.7	1148.6
+	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	347988	38378666	906.7	841.1
+"Total"	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			404009	46341143	871.8	871.8
+	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1333	204463	652.0	1195.4
+	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	175	93775	186.6	454.9
+	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1554	277477	560.0	1017.0
+	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	158046	14535528	1087.3	838.0
+"Total"	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			161108	15111243	1066.1	842.1
+"Total"	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"					565117	61452386	919.6	863.2
+	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1253	412854	303.5	520.6
+	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	4147	2144908	193.3	424.9
+	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	121806	15715493	775.1	1149.9
+	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	496260	51155447	970.1	862.7
+"Total"	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			623466	69428702	898.0	904.3
+	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1718	310499	553.3	834.3
+	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	249	110032	226.3	424.7
+	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	37516	3774028	994.1	1173.7
+	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	190811	15903005	1199.8	960.1
+"Total"	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			230294	20097564	1145.9	989.4
+"Total"	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"					853760	89526266	953.6	925.1
+	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	3118	628610	496.0	871.9
+	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	22537	5697601	395.6	533.8
+	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	22888	3195665	716.2	1070.8
+	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	303804	33052748	919.1	813.9
+"Total"	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			352347	42574624	827.6	802.0
+	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2848	443686	641.9	1034.6
+	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1694	259835	652.0	660.9
+	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	331	68368	484.1	925.0
+	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	51461	5061353	1016.7	846.2
+"Total"	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			56334	5833242	965.7	852.5
+"Total"	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"					408681	48407866	844.2	808.2
+"Total"	"2001"	"2001"							2295244	247824859	926.2	868.4
+	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	400	124671	320.8	476.7
+	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	5140	2468922	208.2	397.8
+	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	46557	6066555	767.4	1007.8
+	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	361683	34659274	1043.5	804.9
+"Total"	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			413780	43319422	955.2	818.8
+	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	97	23546	412.0	731.6
+	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	72	36317	198.3	447.4
+	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	453	108801	416.4	924.0
+	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	53103	5009402	1060.1	857.3
+"Total"	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			53725	5178066	1037.5	856.6
+"Total"	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"					467505	48497488	964.0	823.0
+	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	873	215192	405.7	747.0
+	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	2536	1337026	189.7	431.1
+	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	53436	6524911	819.0	1147.1
+	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	351169	38368110	915.3	839.8
+"Total"	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			408014	46445239	878.5	870.4
+	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1379	206492	667.8	1225.1
+	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	212	96415	219.9	500.8
+	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1663	282533	588.6	1073.5
+	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	160241	14510562	1104.3	844.8
+"Total"	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			163495	15096002	1083.0	849.5
+"Total"	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"					571509	61541241	928.7	864.3
+	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1405	419738	334.7	563.3
+	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	4408	2273681	193.9	413.0
+	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	123091	15996015	769.5	1140.9
+	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	502171	51385518	977.3	861.7
+"Total"	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			631075	70074952	900.6	901.8
+	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1866	315041	592.3	878.7
+	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	266	114534	232.2	442.2
+	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	37697	3768920	1000.2	1178.6
+	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	193754	15936819	1215.8	969.3
+"Total"	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			233583	20135314	1160.1	998.4
+"Total"	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"					864658	90210266	958.5	925.2
+	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	3088	634863	486.4	833.4
+	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	23259	5881626	395.5	524.7
+	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	23387	3232096	723.6	1068.2
+	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	307009	33144729	926.3	811.5
+"Total"	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			356743	42893314	831.7	797.8
+	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2979	443760	671.3	1064.0
+	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1743	263863	660.6	661.6
+	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	289	70073	412.4	820.2
+	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	52843	5087568	1038.7	854.3
+"Total"	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			57854	5865264	986.4	860.7
+"Total"	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"					414597	48758578	850.3	805.6
+"Total"	"2002"	"2002"							2318269	249007573	931.0	866.4
+	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	437	125508	348.2	483.5
+	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	5573	2565265	217.2	413.4
+	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	46590	6095829	764.3	990.7
+	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	356475	34542690	1032.0	786.1
+"Total"	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			409075	43329292	944.1	800.7
+	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	120	23869	502.7	839.3
+	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	60	38062	157.6	339.8
+	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	472	112491	419.6	894.2
+	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	52553	5021580	1046.5	838.2
+"Total"	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			53205	5196002	1024.0	837.8
+"Total"	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"					462280	48525294	952.7	804.8
+	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	935	217361	430.2	774.4
+	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	2602	1396290	186.4	415.3
+	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	53523	6574893	814.1	1131.9
+	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	347597	38364535	906.0	820.4
+"Total"	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			404657	46553079	869.2	851.1
+	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1398	208028	672.0	1213.5
+	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	205	98560	208.0	503.9
+	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1625	288419	563.4	1035.7
+	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	159733	14501911	1101.5	836.0
+"Total"	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			162961	15096918	1079.4	840.3
+"Total"	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"					567618	61649997	920.7	848.0
+	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1502	426476	352.2	578.8
+	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	4703	2398975	196.0	406.4
+	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	124190	16252199	764.1	1124.4
+	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	505625	51573497	980.4	855.0
+"Total"	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			636020	70651147	900.2	893.7
+	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1879	319414	588.3	876.4
+	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	271	119768	226.3	409.3
+	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	37387	3768930	992.0	1166.2
+	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	194562	15976896	1217.8	964.9
+"Total"	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			234099	20185008	1159.8	992.5
+"Total"	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"					870119	90836155	957.9	917.5
+	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	3309	640332	516.8	874.1
+	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	24204	6056988	399.6	516.9
+	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	23841	3257725	731.8	1063.6
+	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	309481	33189701	932.5	805.2
+"Total"	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			360835	43144746	836.3	791.0
+	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	3144	443488	708.9	1110.2
+	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1701	268429	633.7	629.5
+	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	340	71719	474.1	924.2
+	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	53439	5118676	1044.0	847.7
+"Total"	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			58624	5902312	993.2	855.6
+"Total"	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"					419459	49047058	855.2	798.9
+"Total"	"2003"	"2003"							2319476	250058504	927.6	854.6
+	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	436	125257	348.1	511.0
+	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	5606	2652284	211.4	391.4
+	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	45746	6110533	748.6	960.0
+	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	349461	34371451	1016.7	767.7
+"Total"	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			401249	43259525	927.5	780.1
+	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	108	24502	440.8	664.9
+	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	71	39706	178.8	398.9
+	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	439	116119	378.1	825.5
+	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	51972	5026479	1034.0	823.4
+"Total"	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			52590	5206806	1010.0	822.1
+"Total"	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"					453839	48466331	936.4	784.7
+	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	928	218906	423.9	742.6
+	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	2651	1450471	182.8	399.6
+	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	52699	6624114	795.6	1097.2
+	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	339462	38361640	884.9	793.3
+"Total"	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			395740	46655131	848.2	822.9
+	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1477	211160	699.5	1242.3
+	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	200	101552	196.9	461.5
+	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1641	294664	556.9	1030.7
+	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	153896	14497730	1061.5	800.3
+"Total"	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			157214	15105106	1040.8	805.3
+"Total"	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"					552954	61760237	895.3	817.9
+	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1605	433364	370.4	590.9
+	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	4881	2533570	192.7	405.9
+	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	123000	16565898	742.5	1086.4
+	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	495737	51904706	955.1	826.2
+"Total"	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			625223	71437538	875.2	863.1
+	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1949	324862	599.9	874.6
+	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	274	124751	219.6	379.2
+	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	36616	3771041	971.0	1133.7
+	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	190761	16034410	1189.7	939.5
+"Total"	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			229600	20255064	1133.5	965.8
+"Total"	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"					854823	91692602	932.3	887.6
+	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	3227	644151	501.0	825.3
+	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	24260	6229316	389.4	493.8
+	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	23423	3292686	711.4	1018.5
+	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	300240	33262063	902.6	772.2
+"Total"	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			351150	43428216	808.6	757.1
+	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2945	446297	659.9	1010.6
+	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1724	274880	627.2	618.1
+	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	295	73936	399.0	726.5
+	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	51853	5161424	1004.6	807.0
+"Total"	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			56817	5956537	953.9	812.6
+"Total"	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"					407967	49384753	826.1	763.9
+"Total"	"2004"	"2004"							2269583	251303923	903.1	825.8
+	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	452	126023	358.7	503.3
+	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	6091	2740264	222.3	394.7
+	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	46437	6117078	759.1	955.2
+	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	350145	34152930	1025.2	763.6
+"Total"	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			403125	43136295	934.5	775.9
+	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	91	24233	375.5	614.6
+	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	66	41667	158.4	303.7
+	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	437	121231	360.5	757.5
+	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	52771	5028986	1049.3	826.2
+"Total"	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			53365	5216117	1023.1	823.9
+"Total"	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"					456490	48352412	944.1	781.2
+	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1004	223666	448.9	787.5
+	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	2909	1504733	193.3	416.3
+	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	53262	6664091	799.2	1083.7
+	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	345786	38339273	901.9	798.0
+"Total"	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			402961	46731763	862.3	826.2
+	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1523	210142	724.7	1230.5
+	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	205	104258	196.6	407.8
+	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1652	305721	540.4	1009.5
+	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	158350	14475776	1093.9	818.8
+"Total"	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			161730	15095897	1071.4	823.6
+"Total"	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"					564691	61827660	913.3	825.3
+	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1681	442934	379.5	599.3
+	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	5545	2672873	207.5	421.5
+	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	125443	16884816	742.9	1073.5
+	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	506152	52243362	968.8	827.0
+"Total"	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			638821	72243985	884.3	862.3
+	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2194	327604	669.7	968.6
+	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	302	132969	227.1	415.1
+	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	37287	3776137	987.4	1140.7
+	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	194161	16105145	1205.6	942.9
+"Total"	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			233944	20341855	1150.1	970.6
+"Total"	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"					872765	92585840	942.7	888.1
+	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	3353	652030	514.2	827.0
+	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	25417	6411481	396.4	488.5
+	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	24340	3324461	732.1	1021.3
+	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	306572	33331986	919.8	773.3
+"Total"	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			359682	43719958	822.7	757.3
+	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	3101	446338	694.8	1040.2
+	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1789	280050	638.8	620.1
+	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	305	77201	395.1	718.2
+	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	53205	5203526	1022.5	812.4
+"Total"	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			58400	6007115	972.2	818.8
+"Total"	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"					418082	49727073	840.8	764.8
+"Total"	"2005"	"2005"							2312028	252492985	915.7	827.3
+	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	406	126131	321.9	432.0
+	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	6086	2826853	215.3	374.5
+	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	45301	6128001	739.2	914.0
+	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	341693	33959017	1006.2	740.4
+"Total"	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			393486	43040002	914.2	750.2
+	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	111	24511	452.9	722.5
+	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	76	43198	175.9	349.9
+	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	452	126607	357.0	758.2
+	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	51140	5034091	1015.9	787.8
+"Total"	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			51779	5228407	990.3	785.8
+"Total"	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"					445265	48268409	922.5	754.2
+	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1075	225371	477.0	814.6
+	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	2941	1559994	188.5	394.6
+	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	53353	6718661	794.1	1061.1
+	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	342689	38347522	893.6	778.5
+"Total"	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			400058	46851548	853.9	806.5
+	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1476	212643	694.1	1162.9
+	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	235	106304	221.1	409.9
+	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1647	314286	524.0	977.0
+	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	155566	14460555	1075.8	797.0
+"Total"	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			158924	15093788	1052.9	801.5
+"Total"	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"					558982	61945336	902.4	804.9
+	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1747	451203	387.2	605.1
+	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	5808	2820031	206.0	407.2
+	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	124674	17173856	726.0	1034.6
+	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	500579	52495675	953.6	803.1
+"Total"	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			632808	72940765	867.6	836.1
+	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2161	332081	650.7	918.1
+	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	349	137526	253.8	430.2
+	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	36769	3811708	964.6	1103.6
+	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	193061	16218261	1190.4	921.8
+"Total"	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			232340	20499576	1133.4	947.7
+"Total"	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"					865148	93440341	925.9	862.6
+	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	3398	657134	517.1	821.7
+	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	26466	6596814	401.2	484.5
+	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	24096	3367408	715.6	988.4
+	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	306029	33429394	915.4	759.1
+"Total"	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			359989	44050750	817.2	742.1
+	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	3054	448646	680.7	1003.1
+	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1837	285276	643.9	621.2
+	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	289	78968	366.0	659.5
+	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	53860	5255881	1024.8	802.9
+"Total"	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			59040	6068771	972.8	808.3
+"Total"	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"					419029	50119521	836.1	750.1
+"Total"	"2006"	"2006"							2288424	253773607	901.8	805.0
+	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	397	125823	315.5	412.6
+	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	6357	2919171	217.8	372.5
+	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	45263	6143493	736.8	896.6
+	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	338551	33805658	1001.5	725.8
+"Total"	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			390568	42994145	908.4	735.2
+	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	96	25006	383.9	581.6
+	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	74	44364	166.8	342.7
+	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	435	130415	333.6	685.1
+	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	51448	5033109	1022.2	781.7
+"Total"	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			52053	5232894	994.7	778.8
+"Total"	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"					442621	48227039	917.8	740.0
+	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1095	226874	482.6	819.9
+	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	3047	1615011	188.7	381.5
+	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	53061	6769392	783.8	1032.2
+	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	339788	38360836	885.8	759.7
+"Total"	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			396991	46972113	845.2	786.5
+	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1467	215405	681.0	1148.4
+	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	224	108072	207.3	416.2
+	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1750	320335	546.3	1025.3
+	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	154484	14437432	1070.0	783.4
+"Total"	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			157925	15081244	1047.2	788.1
+"Total"	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"					554916	62053357	894.3	786.9
+	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1730	459764	376.3	568.2
+	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	5963	2963661	201.2	392.7
+	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	124552	17508928	711.4	1004.4
+	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	503670	52774338	954.4	793.4
+"Total"	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			635915	73706691	862.8	822.3
+	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2159	336822	641.0	890.8
+	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	392	142364	275.4	467.0
+	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	36976	3830181	965.4	1091.8
+	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	194466	16293342	1193.5	915.5
+"Total"	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			233993	20602709	1135.7	940.1
+"Total"	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"					869908	94309400	922.4	850.3
+	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	3498	661584	528.7	823.8
+	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	26811	6771800	395.9	467.5
+	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	23997	3401390	705.5	957.3
+	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	303173	33491515	905.2	738.7
+"Total"	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			357479	44326289	806.5	720.7
+	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	3269	451255	724.4	1047.7
+	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1895	290258	652.9	626.4
+	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	332	80565	412.1	750.3
+	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	54026	5296191	1020.1	788.1
+"Total"	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			59522	6118269	972.9	797.4
+"Total"	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"					417001	50444558	826.7	730.2
+"Total"	"2007"	"2007"							2284446	255034354	895.7	789.5
+	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	388	126460	306.8	400.2
+	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	6692	3017989	221.7	371.4
+	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	44773	6177224	724.8	873.6
+	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	340886	33700992	1011.5	722.8
+"Total"	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			392739	43022665	912.9	729.7
+	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	135	25306	533.5	806.8
+	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	84	45827	183.3	379.9
+	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	499	132715	376.0	759.2
+	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	52498	5025968	1044.5	786.7
+"Total"	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			53216	5229816	1017.6	785.1
+"Total"	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"					445955	48252481	924.2	735.9
+	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	986	229819	429.0	711.4
+	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	3304	1664930	198.4	397.6
+	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	52799	6812755	775.0	1007.3
+	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	351157	38355879	915.5	773.1
+"Total"	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			408246	47063383	867.4	795.7
+	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1531	216699	706.5	1167.7
+	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	206	110798	185.9	351.6
+	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1674	328215	510.0	980.9
+	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	159450	14407419	1106.7	801.8
+"Total"	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			162861	15063131	1081.2	805.6
+"Total"	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"					571107	62126514	919.3	798.4
+	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1816	468121	387.9	574.4
+	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	6261	3101591	201.9	390.8
+	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	124874	17821455	700.7	982.4
+	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	516919	53024369	974.9	797.7
+"Total"	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			649870	74415536	873.3	820.9
+	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2221	341781	649.8	887.4
+	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	394	148267	265.7	434.0
+	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	36636	3853106	950.8	1053.4
+	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	199624	16348250	1221.1	927.4
+"Total"	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			238875	20691404	1154.5	945.3
+"Total"	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"					888745	95106940	934.5	850.3
+	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	3687	666853	552.9	835.2
+	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	28111	6950738	404.4	466.9
+	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	23919	3445230	694.3	933.6
+	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	305698	33595560	909.9	729.8
+"Total"	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			361415	44658381	809.3	711.6
+	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	3360	453431	741.0	1039.2
+	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1904	296041	643.2	605.7
+	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	348	81033	429.5	757.7
+	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	54802	5325360	1029.1	784.8
+"Total"	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			60414	6155865	981.4	794.4
+"Total"	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"					421829	50814246	830.1	721.8
+"Total"	"2008"	"2008"							2327636	256300181	908.2	790.0
+	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	346	127054	272.3	354.6
+	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	6933	3113228	222.7	364.2
+	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	44378	6223569	713.1	845.5
+	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	333438	33612851	992.0	702.7
+"Total"	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			385095	43076702	894.0	708.3
+	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	118	25720	458.8	608.1
+	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	74	47234	156.7	326.9
+	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	478	135324	353.2	699.0
+	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	51391	5013890	1025.0	762.9
+"Total"	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			52061	5222168	996.9	760.3
+"Total"	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"					437156	48298870	905.1	714.1
+	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1013	230362	439.7	704.3
+	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	3464	1714040	202.1	392.1
+	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	51834	6858073	755.8	966.9
+	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	342458	38370000	892.5	744.6
+"Total"	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			398769	47172475	845.3	766.1
+	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1589	220201	721.6	1135.9
+	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	260	114258	227.6	459.0
+	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1647	333190	494.3	922.7
+	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	154437	14359985	1075.5	774.2
+"Total"	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			157933	15027634	1051.0	778.6
+"Total"	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"					556702	62200109	895.0	769.5
+	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1749	474702	368.4	526.7
+	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	6531	3233570	202.0	384.3
+	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	124612	18134904	687.1	941.1
+	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	508708	53236132	955.6	770.1
+"Total"	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			641600	75079308	854.6	792.4
+	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2268	348363	651.0	864.6
+	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	404	154134	262.1	460.9
+	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	36003	3848045	935.6	1043.7
+	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	197674	16377676	1207.0	906.9
+"Total"	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			236349	20728218	1140.2	925.3
+"Total"	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"					877949	95807526	916.4	823.4
+	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	3841	668397	574.7	837.5
+	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	28598	7116177	401.9	453.1
+	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	23734	3489324	680.2	894.3
+	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	302406	33676254	898.0	709.9
+"Total"	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			358579	44950152	797.7	690.5
+	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	3335	457352	729.2	1010.7
+	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1888	301354	626.5	586.6
+	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	296	82386	359.3	631.7
+	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	54094	5346291	1011.8	760.0
+"Total"	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			59613	6187383	963.5	768.2
+"Total"	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"					418192	51137535	817.8	700.1
+"Total"	"2009"	"2009"							2289999	257444040	889.5	764.7
+	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	388	126680	306.3	387.3
+	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	7152	3181348	224.8	362.4
+	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	44166	6261337	705.4	828.5
+	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	332399	33536415	991.2	693.6
+"Total"	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			384105	43105780	891.1	698.2
+	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	140	26093	536.5	791.9
+	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	84	48318	173.8	350.5
+	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	515	135875	379.0	767.2
+	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	52353	5009205	1045.1	767.9
+"Total"	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			53092	5219491	1017.2	766.0
+"Total"	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"					437197	48325271	904.7	705.8
+	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1152	230715	499.3	794.5
+	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	3732	1750117	213.2	412.0
+	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	52368	6896232	759.4	962.0
+	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	348212	38352965	907.9	748.1
+"Total"	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			405464	47230029	858.5	768.9
+	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1602	223410	717.1	1106.4
+	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	255	117029	217.9	421.4
+	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1598	337196	473.9	886.3
+	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	156628	14357659	1090.9	776.5
+"Total"	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			160083	15035294	1064.7	780.5
+"Total"	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"					565547	62265323	908.3	771.8
+	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1873	479319	390.8	561.5
+	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	7021	3333252	210.6	391.0
+	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	124963	18356734	680.7	926.9
+	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	520383	53395752	974.6	776.2
+"Total"	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			654240	75565057	865.8	794.2
+	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2338	353596	661.2	881.8
+	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	396	158470	249.9	434.1
+	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	35956	3849982	933.9	1033.3
+	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	200160	16401131	1220.4	905.7
+"Total"	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			238850	20763179	1150.4	922.5
+"Total"	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"					893090	96328236	927.1	824.1
+	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	3919	668581	586.2	858.6
+	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	29601	7240252	408.8	451.8
+	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	23502	3516638	668.3	864.8
+	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	304578	33717679	903.3	703.7
+"Total"	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			361600	45143150	801.0	683.6
+	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	3434	461173	744.6	1014.5
+	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1777	305086	582.5	532.2
+	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	370	83139	445.0	768.9
+	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	55203	5356566	1030.6	763.6
+"Total"	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			60784	6205964	979.4	770.3
+"Total"	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"					422384	51349114	822.6	694.3
+"Total"	"2010"	"2010"							2318218	258267944	897.6	762.7
+	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	403	127901	315.1	385.5
+	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	7615	3308026	230.2	358.9
+	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	44910	6326580	709.9	817.7
+	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	340086	33437755	1017.1	704.3
+"Total"	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			393014	43200262	909.7	705.1
+	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	120	26039	460.8	571.8
+	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	110	51376	214.1	431.3
+	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	519	139996	370.7	716.6
+	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	53095	4985882	1064.9	770.5
+"Total"	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			53844	5203293	1034.8	767.9
+"Total"	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"					446858	48403555	923.2	712.1
+	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1112	232873	477.5	714.1
+	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	3889	1821892	213.5	395.5
+	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	53301	6934896	768.6	955.6
+	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	355438	38374251	926.2	751.7
+"Total"	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			413740	47363912	873.5	770.7
+	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1665	225050	739.8	1116.3
+	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	280	127230	220.1	434.3
+	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1578	354746	444.8	809.0
+	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	159832	14297865	1117.9	787.7
+"Total"	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			163355	15004891	1088.7	790.4
+"Total"	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"					577095	62368803	925.3	775.6
+	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1918	486472	394.3	536.6
+	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	7483	3501157	213.7	368.9
+	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	125992	18733106	672.6	892.1
+	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	526366	53761677	979.1	765.9
+"Total"	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			661759	76482412	865.2	779.8
+	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2448	356840	686.0	892.9
+	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	404	172292	234.5	387.6
+	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	35687	3848487	927.3	1008.0
+	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	202673	16368708	1238.2	904.9
+"Total"	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			241212	20746327	1162.7	918.1
+"Total"	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"					902971	97228739	928.7	811.5
+	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	3991	675728	590.6	829.3
+	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	30672	7444749	412.0	438.2
+	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	24467	3561032	687.1	868.0
+	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	312346	33864651	922.3	706.5
+"Total"	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			371476	45546160	815.6	683.1
+	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	3524	464994	757.9	1010.4
+	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1893	312606	605.6	547.2
+	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	343	92688	370.1	600.0
+	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	56483	5339460	1057.8	767.5
+"Total"	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			62243	6209748	1002.3	773.5
+"Total"	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"					433719	51755908	838.0	694.2
+"Total"	"2011"	"2011"							2360643	259757005	908.8	760.5
+	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	399	128765	309.9	358.1
+	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	8068	3411278	236.5	353.0
+	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	44364	6370561	696.4	787.4
+	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	335146	33327905	1005.6	686.4
+"Total"	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			387977	43238509	897.3	685.5
+	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	108	26291	410.8	514.1
+	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	115	52830	217.7	388.4
+	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	518	143437	361.1	652.5
+	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	52680	4962545	1061.6	753.0
+"Total"	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			53421	5185103	1030.3	749.6
+"Total"	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"					441398	48423612	911.5	692.6
+	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1195	234589	509.4	737.2
+	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	4190	1889094	221.8	394.7
+	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	54085	6970610	775.9	946.6
+	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	356937	38394849	929.6	741.8
+"Total"	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			416407	47489142	876.8	760.8
+	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1768	227034	778.7	1127.5
+	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	295	133748	220.6	395.5
+	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1708	363664	469.7	836.5
+	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	160170	14236496	1125.1	780.6
+"Total"	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			163941	14960942	1095.8	784.3
+"Total"	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"					580348	62450084	929.3	766.9
+	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1968	493095	399.1	518.4
+	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	8100	3645998	222.2	371.3
+	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	129286	19036816	679.1	883.3
+	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	536563	54112182	991.6	761.1
+"Total"	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			675917	77288091	874.5	774.0
+	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2482	359800	689.8	858.9
+	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	424	180616	234.8	365.7
+	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	36030	3840140	938.2	1000.9
+	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	204921	16331580	1254.8	899.2
+"Total"	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			243857	20712136	1177.4	911.8
+"Total"	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"					919774	98000227	938.5	805.3
+	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	4184	684584	611.2	836.0
+	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	32181	7619189	422.4	435.3
+	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	24819	3612324	687.1	850.7
+	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	314587	34011736	924.9	696.9
+"Total"	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			375771	45927833	818.2	673.4
+	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	3601	466122	772.5	994.2
+	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1925	317345	606.6	529.4
+	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	369	97369	379.0	616.4
+	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	55892	5322291	1050.1	747.3
+"Total"	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			61787	6203127	996.1	754.0
+"Total"	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"					437558	52130960	839.3	683.1
+"Total"	"2012"	"2012"							2379078	261004883	911.5	750.1
+	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	440	129425	340.0	375.3
+	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	8584	3510536	244.5	350.9
+	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	45242	6416238	705.1	784.3
+	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	340622	33205075	1025.8	692.5
+"Total"	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			394888	43261274	912.8	689.3
+	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	131	26606	492.4	584.2
+	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	93	54816	169.7	258.0
+	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	607	145136	418.2	704.1
+	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	54062	4934785	1095.5	766.6
+"Total"	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			54893	5161343	1063.5	763.4
+"Total"	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"					449781	48422617	928.9	697.5
+	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1225	236231	518.6	734.3
+	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	4609	1961298	235.0	409.0
+	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	55242	7012551	787.8	947.0
+	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	362677	38432849	943.7	742.9
+"Total"	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			423753	47642929	889.4	761.9
+	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1733	229640	754.7	1072.5
+	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	371	140302	264.4	493.1
+	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1786	372750	479.1	840.4
+	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	162467	14178714	1145.9	786.3
+"Total"	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			166357	14921406	1114.9	789.5
+"Total"	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"					590110	62564335	943.2	769.0
+	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	2061	499022	413.0	514.4
+	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	8888	3792035	234.4	374.7
+	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	133557	19322033	691.2	881.6
+	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	546944	54360918	1006.1	760.2
+"Total"	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			691450	77974008	886.8	772.7
+	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2513	362838	692.6	827.8
+	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	501	188136	266.3	388.8
+	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	36983	3832899	964.9	1013.8
+	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	208740	16293362	1281.1	903.0
+"Total"	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			248737	20677235	1203.0	916.7
+"Total"	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"					940187	98651243	953.0	805.2
+	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	4377	691211	633.2	855.0
+	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	33581	7807618	430.1	430.9
+	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	25370	3654500	694.2	842.6
+	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	319681	34150231	936.1	694.6
+"Total"	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			383009	46303560	827.2	669.7
+	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	3739	469002	797.2	1008.6
+	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2075	322890	642.6	553.8
+	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	440	99744	441.1	634.0
+	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	57467	5307368	1082.8	755.6
+"Total"	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			63721	6199004	1027.9	762.6
+"Total"	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"					446730	52502564	850.9	681.0
+"Total"	"2013"	"2013"							2426808	262140759	925.8	751.2
+	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	457	129962	351.6	382.1
+	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	9190	3615349	254.2	350.5
+	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	45826	6453041	710.1	775.7
+	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	338210	33058589	1023.1	683.9
+"Total"	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			393683	43256941	910.1	680.0
+	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	137	26702	513.1	577.6
+	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	110	56411	195.0	314.8
+	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	593	146859	403.8	714.3
+	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	53752	4905938	1095.7	754.1
+"Total"	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			54592	5135910	1062.9	750.3
+"Total"	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"					448275	48392851	926.3	687.8
+	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1264	237769	531.6	745.9
+	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	4675	2036041	229.6	386.5
+	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	56190	7053979	796.6	943.1
+	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	368047	38443091	957.4	743.0
+"Total"	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			430176	47770880	900.5	760.5
+	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1864	231815	804.1	1111.5
+	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	342	145085	235.7	431.1
+	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1689	381171	443.1	754.3
+	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	163350	14123075	1156.6	786.8
+"Total"	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			167245	14881146	1123.9	789.2
+"Total"	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"					597421	62652026	953.6	767.8
+	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	2241	505100	443.7	514.6
+	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	9423	3951584	238.5	365.2
+	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	136613	19621345	696.2	867.7
+	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	555922	54668854	1016.9	757.1
+"Total"	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			704199	78746883	894.3	767.1
+	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2650	365997	724.0	843.7
+	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	563	194897	288.9	393.7
+	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	36889	3827587	963.8	992.6
+	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	210153	16269075	1291.7	896.6
+"Total"	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			250255	20657556	1211.4	908.9
+"Total"	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"					954454	99404439	960.2	798.8
+	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	4638	697872	664.6	863.3
+	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	34124	8008978	426.1	414.0
+	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	25667	3705031	692.8	821.9
+	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	319465	34306743	931.2	681.3
+"Total"	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			383894	46718624	821.7	655.1
+	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	3887	472055	823.4	1025.2
+	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1997	328205	608.5	507.5
+	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	377	101760	370.5	547.4
+	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	58050	5303534	1094.6	750.5
+"Total"	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			64311	6205554	1036.3	756.0
+"Total"	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"					448205	52924178	846.9	667.3
+"Total"	"2014"	"2014"							2448355	263373494	929.6	744.0
+	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	456	130413	349.7	367.6
+	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	9699	3716557	261.0	349.1
+	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	46787	6483673	721.6	772.3
+	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	346408	32874827	1053.7	697.3
+"Total"	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			403350	43205470	933.6	689.7
+	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	154	26745	575.8	624.3
+	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	135	57447	235.0	331.4
+	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	616	148544	414.7	692.9
+	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	55595	4871476	1141.2	775.5
+"Total"	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			56500	5104212	1106.9	771.4
+"Total"	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"					459850	48309682	951.9	698.8
+	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1315	239203	549.7	710.0
+	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	5065	2106173	240.5	389.0
+	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	57774	7087134	815.2	947.4
+	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	375747	38400964	978.5	750.6
+"Total"	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			439901	47833474	919.7	767.6
+	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1895	234000	809.8	1050.6
+	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	361	151358	238.5	380.0
+	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1855	390736	474.7	796.0
+	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	166852	14062198	1186.5	797.7
+"Total"	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			170963	14838292	1152.2	800.1
+"Total"	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"					610864	62671766	974.7	775.9
+	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	2424	511788	473.6	538.7
+	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	10241	4122986	248.4	364.9
+	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	142605	19925418	715.7	872.4
+	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	569773	54986396	1036.2	760.3
+"Total"	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			725043	79546588	911.5	770.6
+	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2828	368563	767.3	867.2
+	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	576	202685	284.2	370.4
+	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	37828	3824274	989.2	999.3
+	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	217359	16254712	1337.2	914.9
+"Total"	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			258591	20650234	1252.2	925.5
+"Total"	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"					983634	100196822	981.7	805.1
+	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	4882	701216	696.2	877.0
+	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	36962	8224295	449.4	424.7
+	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	27382	3760044	728.2	849.3
+	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	332021	34468379	963.3	694.1
+"Total"	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			401247	47153934	850.9	667.4
+	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	4085	477255	855.9	1041.6
+	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2238	334036	670.0	551.6
+	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	407	103892	391.8	546.2
+	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	59876	5310710	1127.5	761.6
+"Total"	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			66606	6225893	1069.8	769.6
+"Total"	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"					467853	53379827	876.5	679.6
+"Total"	"2015"	"2015"							2522201	264558097	953.4	753.0
+	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	507	130494	388.5	390.7
+	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	10154	3809742	266.5	341.6
+	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	48449	6509536	744.3	780.5
+	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	344678	32669347	1055.1	695.6
+"Total"	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			403788	43119119	936.4	687.7
+	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	143	26926	531.1	572.4
+	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	151	58936	256.2	357.3
+	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	671	150539	445.7	720.9
+	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	55261	4839195	1141.9	770.5
+"Total"	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			56226	5075596	1107.8	766.2
+"Total"	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"					460014	48194715	954.5	696.3
+	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	1406	240523	584.6	724.8
+	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	5386	2177397	247.4	387.7
+	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	60350	7118356	847.8	969.2
+	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	376405	38360326	981.2	745.5
+"Total"	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			443547	47896602	926.1	765.5
+	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	1932	236374	817.3	1050.6
+	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	422	156657	269.4	415.8
+	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	1938	397906	487.0	793.6
+	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	165914	13993895	1185.6	792.2
+"Total"	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			170206	14784832	1151.2	794.8
+"Total"	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"					613753	62681434	979.2	773.1
+	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	2451	517922	473.2	529.4
+	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	11039	4289527	257.3	362.5
+	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	148211	20222172	732.9	874.6
+	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	578018	55259507	1046.0	758.7
+"Total"	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			739719	80289128	921.3	768.8
+	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2857	370694	770.7	841.9
+	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	667	209812	317.9	382.6
+	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	38660	3816455	1013.0	1006.9
+	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	218167	16245008	1343.0	910.1
+"Total"	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			260351	20641969	1261.3	922.0
+"Total"	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"					1000070	100931097	990.8	802.6
+	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	5105	705920	723.2	881.4
+	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	38235	8437441	453.2	418.7
+	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	28127	3819755	736.4	843.9
+	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	334507	34620532	966.2	688.2
+"Total"	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			405974	47583648	853.2	661.0
+	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	4194	482214	869.7	1029.7
+	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	2181	340218	641.1	517.8
+	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	404	106950	377.7	517.3
+	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	60513	5336950	1133.8	756.0
+"Total"	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			67292	6266332	1073.9	762.4
+"Total"	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"					473266	53849980	878.9	673.1
+"Total"	"2016"	"2016"							2547103	265657226	958.8	749.5
+"Total"									42274682	4599217895	919.2	797.4
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"2005 Metro/Nonmetro: Metro; Nonmetro"
+"Hispanic Origin: Not Hispanic or Latino"
+"Race: American Indian or Alaska Native; Asian or Pacific Islander; Black or African American; White"
+"Year: 1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016"
+"Group By: Year; Census Region; 2005 Metro/Nonmetro; Race"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: May 13, 2022 7:39:07 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality: Compressed Mortality File 1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the"
+"Compressed Mortality File 1999-2016 Series 20 No. 2U, 2016, as compiled from data provided by the 57 vital statistics"
+"jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on May 13, 2022"
+"7:39:07 AM"
+"---"
+Messages:
+"1. Selections made to any variable in [Census Regions, 2005 Metro/Nonmetro] cause equivalent selections in the other variables."
+"More Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"---"
+Caveats:
+"1. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Not Stated."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Racial Differences."
+"8. 2005 Metro/Nonmetro is based on the classification of counties as metropolitan or nonmetropolitan (micropolitan or noncore)"
+"according to the December 2005 OMB delineation of core based statistical areas."
+"9. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
+"10. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#California-Reporting-Anomalies."
+"11. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More"
+"information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies."
+"12. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10"
+"codes, most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#New-Jersey-Reporting-Anomalies."

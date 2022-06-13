@@ -1,0 +1,289 @@
+"Notes"	"Year"	"Year Code"	"Census Region"	"Census Region Code"	"2005 Metro/Nonmetro"	"2005 Metro/Nonmetro Code"	Deaths	Population	Crude Rate	Age Adjusted Rate
+	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	433028	48106675	900.1	844.1
+	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	52948	5237100	1011.0	866.4
+"Total"	"1999"	"1999"	"Census Region 1: Northeast"	"CENS-R1"			485976	53343775	911.0	846.5
+	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	415871	48601330	855.7	899.0
+	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	166275	15498731	1072.8	871.6
+"Total"	"1999"	"1999"	"Census Region 2: Midwest"	"CENS-R2"			582146	64100061	908.2	891.3
+	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	646963	77917342	830.3	896.6
+	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	232940	21247118	1096.3	987.0
+"Total"	"1999"	"1999"	"Census Region 3: South"	"CENS-R3"			879903	99164460	887.3	918.0
+	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	384718	55779937	689.7	805.3
+	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	58656	6651935	881.8	857.2
+"Total"	"1999"	"1999"	"Census Region 4: West"	"CENS-R4"			443374	62431872	710.2	811.4
+"Total"	"1999"	"1999"					2391399	279040168	857.0	875.6
+	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	434475	48342406	898.7	836.9
+	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	53356	5251972	1015.9	863.4
+"Total"	"2000"	"2000"	"Census Region 1: Northeast"	"CENS-R1"			487831	53594378	910.2	839.9
+	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	412406	48859727	844.1	883.6
+	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	164437	15533049	1058.6	859.2
+"Total"	"2000"	"2000"	"Census Region 2: Midwest"	"CENS-R2"			576843	64392776	895.8	876.7
+	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	657794	78877877	833.9	898.5
+	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	236218	21358943	1105.9	993.5
+"Total"	"2000"	"2000"	"Census Region 3: South"	"CENS-R3"			894012	100236820	891.9	921.0
+	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	385989	56499930	683.2	793.0
+	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	58676	6698002	876.0	844.2
+"Total"	"2000"	"2000"	"Census Region 4: West"	"CENS-R4"			444665	63197932	703.6	799.0
+"Total"	"2000"	"2000"					2403351	281421906	854.0	869.3
+	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	434445	48651053	893.0	826.6
+	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	53273	5264469	1011.9	853.0
+"Total"	"2001"	"2001"	"Census Region 1: Northeast"	"CENS-R1"			487718	53915522	904.6	829.5
+	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	412225	49236529	837.2	870.5
+	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	162782	15540002	1047.5	844.0
+"Total"	"2001"	"2001"	"Census Region 2: Midwest"	"CENS-R2"			575007	64776531	887.7	862.9
+	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	663494	80421487	825.0	887.4
+	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	235519	21428088	1099.1	982.4
+"Total"	"2001"	"2001"	"Census Region 3: South"	"CENS-R3"			899013	101849575	882.7	909.7
+	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	394558	57693608	683.9	788.1
+	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	60129	6733719	893.0	845.8
+"Total"	"2001"	"2001"	"Census Region 4: West"	"CENS-R4"			454687	64427327	705.7	794.6
+"Total"	"2001"	"2001"					2416425	284968955	848.0	858.8
+	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	433154	48857027	886.6	814.2
+	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	54114	5286888	1023.6	856.9
+"Total"	"2002"	"2002"	"Census Region 1: Northeast"	"CENS-R1"			487268	54143915	899.9	818.7
+	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	417141	49472604	843.2	870.0
+	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	165441	15545689	1064.2	852.3
+"Total"	"2002"	"2002"	"Census Region 2: Midwest"	"CENS-R2"			582582	65018293	896.0	864.9
+	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	672600	81630271	824.0	883.8
+	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	239068	21520516	1110.9	990.9
+"Total"	"2002"	"2002"	"Census Region 3: South"	"CENS-R3"			911668	103150787	883.8	908.7
+	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	400086	58518695	683.7	782.0
+	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	61783	6793503	909.4	853.2
+"Total"	"2002"	"2002"	"Census Region 4: West"	"CENS-R4"			461869	65312198	707.2	790.2
+"Total"	"2002"	"2002"					2443387	287625193	849.5	855.9
+	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	429072	49022935	875.2	796.4
+	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	53588	5311518	1008.9	837.8
+"Total"	"2003"	"2003"	"Census Region 1: Northeast"	"CENS-R1"			482660	54334453	888.3	800.9
+	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	413188	49708216	831.2	848.9
+	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	164664	15568738	1057.7	841.5
+"Total"	"2003"	"2003"	"Census Region 2: Midwest"	"CENS-R2"			577852	65276954	885.2	846.7
+	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	678033	82752535	819.4	873.5
+	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	239390	21627653	1106.9	983.1
+"Total"	"2003"	"2003"	"Census Region 3: South"	"CENS-R3"			917423	104380188	878.9	898.8
+	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	407451	59259750	687.6	777.4
+	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	62902	6856588	917.4	850.9
+"Total"	"2003"	"2003"	"Census Region 4: West"	"CENS-R4"			470353	66116338	711.4	785.7
+"Total"	"2003"	"2003"					2448288	290107933	843.9	843.5
+	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	419923	49094083	855.3	772.5
+	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	52912	5329450	992.8	820.7
+"Total"	"2004"	"2004"	"Census Region 1: Northeast"	"CENS-R1"			472835	54423533	868.8	777.6
+	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	404000	49934517	809.1	819.7
+	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	158728	15597788	1017.6	805.5
+"Total"	"2004"	"2004"	"Census Region 2: Midwest"	"CENS-R2"			562728	65532305	858.7	815.6
+	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	668179	84129482	794.2	843.0
+	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	235042	21754495	1080.4	956.4
+"Total"	"2004"	"2004"	"Census Region 3: South"	"CENS-R3"			903221	105883977	853.0	868.8
+	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	397965	60027440	663.0	743.3
+	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	60866	6938043	877.3	805.7
+"Total"	"2004"	"2004"	"Census Region 4: West"	"CENS-R4"			458831	66965483	685.2	750.3
+"Total"	"2004"	"2004"					2397615	292805298	818.8	813.7
+	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	421740	49104427	858.9	766.5
+	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	53658	5346803	1003.6	821.5
+"Total"	"2005"	"2005"	"Census Region 1: Northeast"	"CENS-R1"			475398	54451230	873.1	772.3
+	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	411466	50136330	820.7	822.2
+	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	163267	15615542	1045.5	823.1
+"Total"	"2005"	"2005"	"Census Region 2: Midwest"	"CENS-R2"			574733	65751872	874.1	822.3
+	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	685298	85571628	800.8	842.9
+	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	239872	21908143	1094.9	961.7
+"Total"	"2005"	"2005"	"Census Region 3: South"	"CENS-R3"			925170	107479771	860.8	869.8
+	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	409953	60812807	674.1	744.8
+	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	62763	7020919	893.9	812.6
+"Total"	"2005"	"2005"	"Census Region 4: West"	"CENS-R4"			472716	67833726	696.9	752.4
+"Total"	"2005"	"2005"					2448017	295516599	828.4	815.0
+	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	412434	49155275	839.0	741.0
+	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	52069	5367384	970.1	783.0
+"Total"	"2006"	"2006"	"Census Region 1: Northeast"	"CENS-R1"			464503	54522659	851.9	745.4
+	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	408019	50390143	809.7	800.8
+	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	160269	15638412	1024.8	799.8
+"Total"	"2006"	"2006"	"Census Region 2: Midwest"	"CENS-R2"			568288	66028555	860.7	800.3
+	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	680423	86940010	782.6	816.1
+	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	238424	22136923	1077.0	938.6
+"Total"	"2006"	"2006"	"Census Region 3: South"	"CENS-R3"			918847	109076933	842.4	843.8
+	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	411227	61633492	667.2	728.3
+	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	63399	7118273	890.7	800.1
+"Total"	"2006"	"2006"	"Census Region 4: West"	"CENS-R4"			474626	68751765	690.3	736.4
+"Total"	"2006"	"2006"					2426264	298379912	813.1	791.8
+	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	409343	49274590	830.7	724.9
+	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	52369	5378772	973.6	776.0
+"Total"	"2007"	"2007"	"Census Region 1: Northeast"	"CENS-R1"			461712	54653362	844.8	730.3
+	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	405338	50645793	800.3	780.9
+	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	159327	15647896	1018.2	786.5
+"Total"	"2007"	"2007"	"Census Region 2: Midwest"	"CENS-R2"			564665	66293689	851.8	782.3
+	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	684307	88385071	774.2	800.8
+	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	240053	22303671	1076.3	929.9
+"Total"	"2007"	"2007"	"Census Region 3: South"	"CENS-R3"			924360	110688742	835.1	829.9
+	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	408943	62392743	655.4	705.4
+	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	64032	7202671	889.0	789.1
+"Total"	"2007"	"2007"	"Census Region 4: West"	"CENS-R4"			472975	69595414	679.6	714.9
+"Total"	"2007"	"2007"					2423712	301231207	804.6	775.3
+	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	412695	49494221	833.8	720.2
+	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	53561	5381705	995.2	782.4
+"Total"	"2008"	"2008"	"Census Region 1: Northeast"	"CENS-R1"			466256	54875926	849.7	726.8
+	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	417804	50870766	821.3	791.3
+	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	164454	15653169	1050.6	804.5
+"Total"	"2008"	"2008"	"Census Region 2: Midwest"	"CENS-R2"			582258	66523935	875.3	794.7
+	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	699315	89726733	779.4	797.7
+	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	245221	22458197	1091.9	934.7
+"Total"	"2008"	"2008"	"Census Region 3: South"	"CENS-R3"			944536	112184930	841.9	828.4
+	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	413946	63234648	654.6	695.6
+	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	64988	7274527	893.4	785.0
+"Total"	"2008"	"2008"	"Census Region 4: West"	"CENS-R4"			478934	70509175	679.3	705.7
+"Total"	"2008"	"2008"					2471984	304093966	812.9	774.9
+	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	405114	49753296	814.2	698.0
+	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	52434	5379805	974.6	758.0
+"Total"	"2009"	"2009"	"Census Region 1: Northeast"	"CENS-R1"			457548	55133101	829.9	704.4
+	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	407450	51107992	797.2	759.7
+	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	159216	15640445	1018.0	775.7
+"Total"	"2009"	"2009"	"Census Region 2: Midwest"	"CENS-R2"			566666	66748437	849.0	763.8
+	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	693580	90992963	762.2	771.3
+	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	243090	22555652	1077.7	915.7
+"Total"	"2009"	"2009"	"Census Region 3: South"	"CENS-R3"			936670	113548615	824.9	803.2
+	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	411907	64002591	643.6	673.4
+	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	64372	7338785	877.1	760.7
+"Total"	"2009"	"2009"	"Census Region 4: West"	"CENS-R4"			476279	71341376	667.6	683.2
+"Total"	"2009"	"2009"					2437163	306771529	794.5	749.6
+	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	406158	49937814	813.3	690.7
+	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	53550	5379426	995.5	764.8
+"Total"	"2010"	"2010"	"Census Region 1: Northeast"	"CENS-R1"			459708	55317240	831.0	698.6
+	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	413999	51264060	807.6	761.4
+	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	161430	15662941	1030.6	777.5
+"Total"	"2010"	"2010"	"Census Region 2: Midwest"	"CENS-R2"			575429	66927001	859.8	765.4
+	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	707413	91928935	769.5	772.1
+	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	245241	22626809	1083.9	911.0
+"Total"	"2010"	"2010"	"Census Region 3: South"	"CENS-R3"			952654	114555744	831.6	802.6
+	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	415111	64570976	642.9	665.3
+	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	65533	7374577	888.6	761.5
+"Total"	"2010"	"2010"	"Census Region 4: West"	"CENS-R4"			480644	71945553	668.1	676.2
+"Total"	"2010"	"2010"					2468435	308745538	799.5	747.0
+	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	415790	50261447	827.3	695.4
+	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	54253	5371319	1010.0	765.1
+"Total"	"2011"	"2011"	"Census Region 1: Northeast"	"CENS-R1"			470043	55632766	844.9	702.7
+	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	422504	51492708	820.5	762.2
+	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	164672	15660623	1051.5	786.3
+"Total"	"2011"	"2011"	"Census Region 2: Midwest"	"CENS-R2"			587176	67153331	874.4	768.1
+	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	715707	93405514	766.2	755.2
+	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	247805	22656287	1093.8	905.3
+"Total"	"2011"	"2011"	"Census Region 3: South"	"CENS-R3"			963512	116061801	830.2	787.6
+	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	427642	65409813	653.8	663.0
+	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	67085	7405647	905.9	762.2
+"Total"	"2011"	"2011"	"Census Region 4: West"	"CENS-R4"			494727	72815460	679.4	674.1
+"Total"	"2011"	"2011"					2515458	311663358	807.1	742.6
+	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	413308	50469372	818.9	679.1
+	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	54136	5359687	1010.1	750.7
+"Total"	"2012"	"2012"	"Census Region 1: Northeast"	"CENS-R1"			467444	55829059	837.3	686.6
+	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	425853	51695808	823.8	752.5
+	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	165369	15636512	1057.6	780.3
+"Total"	"2012"	"2012"	"Census Region 2: Midwest"	"CENS-R2"			591222	67332320	878.1	759.6
+	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	733013	94641876	774.5	749.7
+	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	250688	22657295	1106.4	898.6
+"Total"	"2012"	"2012"	"Census Region 3: South"	"CENS-R3"			983701	117299171	838.6	781.5
+	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	434040	66121604	656.4	653.2
+	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	66872	7416225	901.7	744.4
+"Total"	"2012"	"2012"	"Census Region 4: West"	"CENS-R4"			500912	73537829	681.2	663.1
+"Total"	"2012"	"2012"					2543279	313998379	810.0	732.9
+	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	420069	50647484	829.4	680.3
+	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	55450	5341287	1038.1	761.2
+"Total"	"2013"	"2013"	"Census Region 1: Northeast"	"CENS-R1"			475519	55988771	849.3	688.7
+	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	433846	51926565	835.5	753.7
+	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	167842	15617383	1074.7	784.9
+"Total"	"2013"	"2013"	"Census Region 2: Midwest"	"CENS-R2"			601688	67543948	890.8	761.6
+	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	750429	95768467	783.6	746.7
+	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	255947	22655853	1129.7	903.2
+"Total"	"2013"	"2013"	"Census Region 3: South"	"CENS-R3"			1006376	118424320	849.8	779.9
+	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	444492	66819323	665.2	650.3
+	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	68918	7428546	927.7	750.1
+"Total"	"2013"	"2013"	"Census Region 4: West"	"CENS-R4"			513410	74247869	691.5	661.3
+"Total"	"2013"	"2013"					2596993	316204908	821.3	732.9
+	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	420000	50795953	826.8	671.0
+	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	55173	5320838	1036.9	748.3
+"Total"	"2014"	"2014"	"Census Region 1: Northeast"	"CENS-R1"			475173	56116791	846.8	679.1
+	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	440616	52131313	845.2	751.6
+	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	168748	15595055	1082.1	784.0
+"Total"	"2014"	"2014"	"Census Region 2: Midwest"	"CENS-R2"			609364	67726368	899.7	759.7
+	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	767333	97023825	790.9	741.6
+	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	257948	22672486	1137.7	895.8
+"Total"	"2014"	"2014"	"Census Region 3: South"	"CENS-R3"			1025281	119696311	856.6	773.9
+	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	446937	67571023	661.4	635.1
+	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	69663	7452963	934.7	743.5
+"Total"	"2014"	"2014"	"Census Region 4: West"	"CENS-R4"			516600	75023986	688.6	646.9
+"Total"	"2014"	"2014"					2626418	318563456	824.5	725.3
+	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	432126	50890683	849.1	681.4
+	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	57257	5294054	1081.5	770.7
+"Total"	"2015"	"2015"	"Census Region 1: Northeast"	"CENS-R1"			489383	56184737	871.0	690.7
+	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	451171	52268679	863.2	758.4
+	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	172635	15569708	1108.8	794.6
+"Total"	"2015"	"2015"	"Census Region 2: Midwest"	"CENS-R2"			623806	67838387	919.5	767.6
+	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	791711	98333608	805.1	743.9
+	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	266563	22705598	1174.0	910.7
+"Total"	"2015"	"2015"	"Census Region 3: South"	"CENS-R3"			1058274	121039206	874.3	778.7
+	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	468766	68342813	685.9	646.8
+	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	72401	7491475	966.4	758.1
+"Total"	"2015"	"2015"	"Census Region 4: West"	"CENS-R4"			541167	75834288	713.6	658.8
+"Total"	"2015"	"2015"					2712630	320896618	845.3	733.6
+	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	433177	50939145	850.4	677.8
+	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	56909	5270365	1079.8	763.7
+"Total"	"2016"	"2016"	"Census Region 1: Northeast"	"CENS-R1"			490086	56209510	871.9	686.6
+	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	455267	52411017	868.6	755.4
+	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	171882	15530412	1106.7	788.8
+"Total"	"2016"	"2016"	"Census Region 2: Midwest"	"CENS-R2"			627149	67941429	923.1	764.0
+	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	808364	99584793	811.7	739.5
+	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	268107	22734781	1179.3	904.4
+"Total"	"2016"	"2016"	"Census Region 3: South"	"CENS-R3"			1076471	122319574	880.0	773.5
+	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	477378	69105311	690.8	642.0
+	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	73164	7551689	968.8	750.2
+"Total"	"2016"	"2016"	"Census Region 4: West"	"CENS-R4"			550542	76657000	718.2	653.6
+"Total"	"2016"	"2016"					2744248	323127513	849.3	728.8
+"Total"							44915066	5435162436	826.4	782.3
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"2005 Metro/Nonmetro: Metro; Nonmetro"
+"Year: 1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016"
+"Group By: Year; Census Region; 2005 Metro/Nonmetro"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: May 13, 2022 8:26:11 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality: Compressed Mortality File 1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the"
+"Compressed Mortality File 1999-2016 Series 20 No. 2U, 2016, as compiled from data provided by the 57 vital statistics"
+"jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on May 13, 2022"
+"8:26:11 AM"
+"---"
+Messages:
+"1. Selections made to any variable in [Census Regions, 2005 Metro/Nonmetro] cause equivalent selections in the other variables."
+"More Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"---"
+Caveats:
+"1. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. 2005 Metro/Nonmetro is based on the classification of counties as metropolitan or nonmetropolitan (micropolitan or noncore)"
+"according to the December 2005 OMB delineation of core based statistical areas."
+"7. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
+"8. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#California-Reporting-Anomalies."
+"9. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More"
+"information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies."
+"10. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10"
+"codes, most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#New-Jersey-Reporting-Anomalies."

@@ -1,0 +1,109 @@
+"Notes"	"Census Region"	"Census Region Code"	"2005 Metro/Nonmetro"	"2005 Metro/Nonmetro Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate	Age Adjusted Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	7331	2277370	321.9	409.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	123268	53607299	229.9	370.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"Black or African American"	"2054-5"	825321	111830565	738.0	886.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"	"White"	"2106-3"	6238660	609383625	1023.8	738.9
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Metro"	"Metro"			7194580	777098859	925.8	744.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	2112	450235	469.1	657.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	1547	811924	190.5	357.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	8928	2291476	389.6	760.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	950450	89713603	1059.4	797.1
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Nonmetro"	"Nonmetro"			963037	93267238	1032.6	794.9
+"Total"	"Census Region 1: Northeast"	"CENS-R1"					8157617	870366097	937.3	750.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	19132	4073466	469.7	750.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	61870	29621168	208.9	402.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"Black or African American"	"2054-5"	972528	121827312	798.3	1032.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"	"White"	"2106-3"	6351605	690630422	919.7	779.8
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Metro"	"Metro"			7405135	846152368	875.2	804.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	28197	3906823	721.7	1144.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	4570	2071478	220.6	437.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	30324	5861185	517.4	936.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	2870521	258646378	1109.8	805.0
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Nonmetro"	"Nonmetro"			2933612	270485864	1084.6	809.0
+"Total"	"Census Region 2: Midwest"	"CENS-R2"					10338747	1116638232	925.9	805.4
+	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	31881	8279734	385.0	545.6
+	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	117899	54675675	215.6	385.9
+	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"Black or African American"	"2054-5"	2296736	317802092	722.7	986.5
+	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"	"White"	"2106-3"	9351528	951748944	982.6	800.1
+"Total"	"Census Region 3: South"	"CENS-R3"	"Metro"	"Metro"			11798044	1332506445	885.4	824.9
+	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	39868	6094395	654.2	871.0
+	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	6836	2676458	255.4	409.9
+	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	666961	68584621	972.5	1080.4
+	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	3590477	291192312	1233.0	925.6
+"Total"	"Census Region 3: South"	"CENS-R3"	"Nonmetro"	"Nonmetro"			4304142	368547786	1167.9	946.9
+"Total"	"Census Region 3: South"	"CENS-R3"					16102186	1701054231	946.6	853.4
+	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"American Indian or Alaska Native"	"1002-5"	67319	11907110	565.4	842.3
+	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Asian or Pacific Islander"	"A-PI"	507179	123256124	411.5	463.3
+	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"Black or African American"	"2054-5"	437650	61890053	707.1	938.3
+	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"	"White"	"2106-3"	5580987	604858893	922.7	741.6
+"Total"	"Census Region 4: West"	"CENS-R4"	"Metro"	"Metro"			6593135	801912180	822.2	721.4
+	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"American Indian or Alaska Native"	"1002-5"	59939	8211569	729.9	1025.0
+	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Asian or Pacific Islander"	"A-PI"	33588	5279113	636.2	588.6
+	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"Black or African American"	"2054-5"	6113	1493301	409.4	690.3
+	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"	"White"	"2106-3"	983357	94263172	1043.2	789.6
+"Total"	"Census Region 4: West"	"CENS-R4"	"Nonmetro"	"Nonmetro"			1082997	109247155	991.3	796.3
+"Total"	"Census Region 4: West"	"CENS-R4"					7676132	911159335	842.5	730.6
+"Total"							42274682	4599217895	919.2	797.4
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"2005 Metro/Nonmetro: Metro; Nonmetro"
+"Hispanic Origin: Not Hispanic or Latino"
+"Race: American Indian or Alaska Native; Asian or Pacific Islander; Black or African American; White"
+"Year: 1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016"
+"Group By: Census Region; 2005 Metro/Nonmetro; Race"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: May 13, 2022 7:37:31 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality: Compressed Mortality File 1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the"
+"Compressed Mortality File 1999-2016 Series 20 No. 2U, 2016, as compiled from data provided by the 57 vital statistics"
+"jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on May 13, 2022"
+"7:37:31 AM"
+"---"
+Messages:
+"1. Selections made to any variable in [Census Regions, 2005 Metro/Nonmetro] cause equivalent selections in the other variables."
+"More Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"---"
+Caveats:
+"1. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Not Stated."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Racial Differences."
+"8. 2005 Metro/Nonmetro is based on the classification of counties as metropolitan or nonmetropolitan (micropolitan or noncore)"
+"according to the December 2005 OMB delineation of core based statistical areas."
+"9. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
+"10. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#California-Reporting-Anomalies."
+"11. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More"
+"information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies."
+"12. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10"
+"codes, most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#New-Jersey-Reporting-Anomalies."
