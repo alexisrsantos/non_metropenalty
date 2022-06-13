@@ -2,6 +2,6 @@
 
 This repository includes the data and code required to replicate our article on the nonmetro penalty.
 
-* Raw Data contains the extracts from CDC Wonder.
+* Raw-Data contains the extracts from CDC Wonder.
 * Processed Files contains the R readable files. 
 * Code contains the R code used in our analysis. 
